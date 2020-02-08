@@ -1,0 +1,27 @@
+{
+  "name": "@vorelli/imagecarousel",
+  "version": "1.0.0",
+  "description": "Script for handling an image carousel.",
+  "main": "ImageCarousel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vorelli/ImageCarousel.git"
+  },
+  "keywords": [
+    "image",
+    "carousel"
+  ],
+  "author": "Natale Toscano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vorelli/ImageCarousel/issues"
+  },
+  "homepage": "https://github.com/Vorelli/ImageCarousel#readme",
+  "dependencies": {
+    "@vorelli/createelement": "^1.0.0",
+    "@vorelli/grab": "^1.0.0"
+  }
+}
